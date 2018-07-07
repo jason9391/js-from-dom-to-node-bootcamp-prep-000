@@ -1,5 +1,5 @@
 // write your code below!
-if (2 > 5) {
+if (5 > 2) {
   console.log("5 is greater than 2");;;
 }
 if (false) {
